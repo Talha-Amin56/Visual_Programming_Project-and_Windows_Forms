@@ -58,17 +58,4 @@ Crystal Reports can be integrated into various applications:
 - **Performance Concerns:** Optimize database queries and consider reducing the complexity of your report if performance is lagging.
 - **Export Problems:** Ensure that all necessary export libraries and drivers are properly installed.
 
-## Community and Support
-For further assistance and more detailed documentation:
-- [SAP Crystal Reports Documentation](https://help.sap.com/viewer/product/CRYSTAL_REPORTS/)
-- [SAP Community Network](https://community.sap.com/topics/crystal-reports)
-
-## Contributing
-Contributions to improve this documentation or extend functionality are welcome. Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Special thanks to the Crystal Reports community and SAP for continuously advancing reporting technology and providing comprehensive resources to developers and users alike.
 
