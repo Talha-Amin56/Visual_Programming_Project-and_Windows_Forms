@@ -31,6 +31,4 @@
 ## Author
 - Talha Amin
 
-## License
-This project is open-source and can be modified as per requirements.
 
