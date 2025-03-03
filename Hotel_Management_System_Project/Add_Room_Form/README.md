@@ -60,8 +60,7 @@ Clears the input fields in the `UC_AddRoom` UserControl.
 - Incorrect credentials display an error message.
 - Add rooms by providing room details and clicking the "Add Room" button.
 
-## License
-This project is for educational purposes only.
+
 
 ---
 **Author:** [Talha Amin]  
