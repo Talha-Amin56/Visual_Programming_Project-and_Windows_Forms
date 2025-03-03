@@ -33,7 +33,7 @@ Clears the `textBox1` by setting its text to an empty string.
 1. User enters a number.
 2. User clicks an operator (+, -, *, /), which stores the number and operation.
 3. User enters a second number.
-4. User clicks the `=` button to display the result.
+4. User clicks the `=` button to display the result.cl
 5. The Clear button (`C`) resets the input field.
 
 ## Requirements
